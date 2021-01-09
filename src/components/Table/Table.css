@@ -1,0 +1,13 @@
+.table-body{
+    width: 70%;
+    margin: 10rem auto;
+}
+.ant-table{
+    border-radius:18px!important;
+    box-shadow: 0 1px 10px 1px rgb(206, 206, 206);
+    overflow: hidden;
+}
+
+.ant-table-thead > tr > th{
+    background-color: #f8ebd3!important;
+}
